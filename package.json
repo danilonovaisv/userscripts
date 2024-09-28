@@ -35,6 +35,6 @@
 		"stylelint-config-html": "^1.1.0",
 		"stylelint-config-standard": "^36.0.0",
 		"svelte": "^5.0.0-next.192",
-		"vite": "^5.3.4"
+		"vite": "^5.4.8"
 	}
 }
